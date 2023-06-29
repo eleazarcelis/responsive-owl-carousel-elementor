@@ -4,10 +4,11 @@
  * Description: A highly customizable & responsive carousel plugin for Elementor page builder based on Owl Carousel
  * Plugin URI: https://github.com/eleazarcelis/responsive-owl-carousel-elementor
  *
- * Version: 1.0.2
+ * Version: 1.0.3
  * Author: Ele
  * Author URI: https://www.linkedin.com/in/eleazarcelis/
  * 
+ * Version: 1.0.1
  * Original Author: TheNahidul
  * Author URI: https://www.linkedin.com/in/thenahidul
  *
